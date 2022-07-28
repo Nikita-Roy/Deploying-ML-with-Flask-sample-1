@@ -1,2 +1,2 @@
 # Deploying-ML-with-Flask-sample-1
-deploying ML model with Flask
+I have created sample FLask framework to deploy an ML model regarding Prediciton of Salaries based on the experience, test score and interview score.
